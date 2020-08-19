@@ -2,3 +2,13 @@ let drinks = [{name:"Old Fashioned" ,image: "img.jpg", style: "Stirred", ingredi
 
 let cards = document.querySelectorAll(".card")
 console.log(cards)
+
+
+
+// element.addEventListener("click", myFunction);
+
+// function myFunction() {
+//   alert ("Hello World!");
+// }
+
+
